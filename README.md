@@ -1,4 +1,4 @@
-SQL E-commerce Sales Analysis Dashboard
+### SQL E-commerce Sales Analysis Dashboard
 Description
 This project aims to showcase my proficiency in SQL querying, database setup/administration, and data visualization using Jupyter Notebooks. The main tools and libraries utilized include SQL, Jupyter Notebook, pandas, seaborn, and matplotlib.
 
