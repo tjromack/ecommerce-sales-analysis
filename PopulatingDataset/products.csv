@@ -1,0 +1,8 @@
+-- Populates formatted data into "products" table
+
+INSERT INTO Products(product_id, name, price, attributes)
+VALUES 
+(1, 'T-Shirt', 19.99, '<attributes><color>Red</color><size>M</size></attributes>'),
+(2, 'Jeans', 49.99, '<attributes><color>Blue</color><size>L</size></attributes>'),
+(3, 'Sneakers', 89.99, '<attributes><color>White</color><size>10</size></attributes>'),
+(4, 'Baseball Cap', 14.99, '<attributes><color>Black</color><size>One Size</size></attributes>');

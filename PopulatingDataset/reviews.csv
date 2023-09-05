@@ -1,0 +1,8 @@
+-- Populates formatted data into "reviews" table
+
+INSERT INTO Reviews(review_id, user_id, product_id, rating, comment)
+VALUES 
+(1, 1, 2, 4, 'Great jeans!'),
+(2, 2, 1, 5, 'Love the fit of this t-shirt!'),
+(3, 3, 3, 3, 'Sneakers were okay, not the best fit.'),
+(4, 4, 2, 2, 'Jeans faded after one wash.');

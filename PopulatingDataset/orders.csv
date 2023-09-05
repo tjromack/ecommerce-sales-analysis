@@ -1,0 +1,8 @@
+-- Populates formatted data into "orders" table
+
+INSERT INTO Orders(order_id, user_id, product_id, order_date, quantity)
+VALUES 
+(1, 1, 2, '2023-09-01', 1),
+(2, 2, 1, '2023-08-28', 2),
+(3, 3, 3, '2023-08-15', 1),
+(4, 4, 2, '2023-07-20', 3);
