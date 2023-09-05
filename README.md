@@ -3,7 +3,7 @@ Description
 This project aims to showcase my proficiency in SQL querying, database setup/administration, and data visualization using Jupyter Notebooks. The main tools and libraries utilized include SQL, Jupyter Notebook, pandas, seaborn, and matplotlib.
 
 ## Data Model
-Users
+## Users
 The users table comprises information about our users.
 
 ## Orders
