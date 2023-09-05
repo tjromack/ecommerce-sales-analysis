@@ -25,12 +25,11 @@ Product Attributes: What attributes do our products have, and how can they be ca
 ## Setup and Usage
 
 Database Setup:
-
 Install PostgreSQL.
 Set up the mock ecom_sales_analysis database.
 Populate the database with the provided SQL scripts and test the queries to ensure everything is functioning as expected.
-Jupyter Notebook:
 
+Jupyter Notebook:
 Set up Jupyter Notebook on your system.
 Use the notebook to connect to the PostgreSQL database.
 Leverage the visualization tools provided by seaborn and matplotlib, combined with pandas for data manipulation, to visualize and analyze the queried data.
